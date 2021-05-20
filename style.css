@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(14,237,220,1) 35%, rgba(23,73,221,1) 63%);
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    margin-top: 16px;
+}
+
+.image-section {
+    display: flex; 
+    justify-content: center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px; 
+    background-color:beige;
+}
+img{
+    width:500px;
+    height:400px;
+}
+   
